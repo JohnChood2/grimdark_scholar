@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Warhammer 40K Lore Assistant
 
 A Large Language Model-powered assistant that answers questions about Warhammer 40K lore using data from the Lexicanum wiki.
@@ -209,3 +210,7 @@ This project is open source and contributions are welcome!
 ## License
 
 MIT License - see LICENSE file for details
+=======
+# grimdark_scholar
+Warhammer 40K Lore Assistant - Grimdark Scholar
+>>>>>>> 5fcab5862d3a5abbdfcaafedaad6c722d2ecc78e
