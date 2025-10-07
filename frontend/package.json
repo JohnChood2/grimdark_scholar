@@ -2,7 +2,7 @@
   "name": "wh40k-lore-frontend",
   "version": "1.0.0",
   "description": "Warhammer 40K Lore Assistant - Your gateway to the grim darkness of the far future",
-  "homepage": "https://grimdark-scholar.github.io",
+  "homepage": "https://JohnChood2.github.io/grimdark_scholar",
   "private": true,
   "dependencies": {
     "@types/node": "^20.0.0",
